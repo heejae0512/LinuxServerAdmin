@@ -1,3 +1,4 @@
 # LinuxServerAdmin
 ## File System STructure
-## Device Adminstration
+## Device Administration - Device Reconfiguration
+## Device Administration - Disk partition
